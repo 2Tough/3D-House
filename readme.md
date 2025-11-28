@@ -1,4 +1,4 @@
-# House in three.js
+# 3D House
  A house made to practice what I have learned in three js.
 
  Live preview:
